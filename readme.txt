@@ -1,4 +1,4 @@
-=== BlaatSchaap OAuth ===
+=== BlaatSchaap SSO: VATSIM ===
 Contributors: GromBeestje
 Donate link: http://code.blaatschaap.be/donations/
 Tags: vatsim, sso, authentication

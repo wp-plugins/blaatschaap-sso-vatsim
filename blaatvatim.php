@@ -3,7 +3,7 @@
 Plugin Name: BlaatSchaap SSO: VATSIM
 Plugin URI: http://code.blaatschaap.be
 Description: BlaatSchaap SSO support for VATSIM, a modified OAuth protocol.
-Version: 0.3.9-pre6
+Version: 0.4.0
 Author: André van Schoubroeck
 Author URI: http://andre.blaatschaap.be
 License: BSD
